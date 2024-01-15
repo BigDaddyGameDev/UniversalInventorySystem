@@ -15,7 +15,7 @@ The Universal Inventory System is a unity package for making advanced and higly 
 
 It's based on the idea of items as Scriptable Objects and an inventory controller to manipulate the inventories.
 
-It also is open source and free to use, since it is under the [Apache-2.0 Licese](https://github.com/Heymity/UniversalInventorySystem/blob/Updating-README/LICENSE) wich grants you the permissions of:
+It also is open source and free to use, since it is under the [Apache-2.0 License](https://github.com/Heymity/UniversalInventorySystem/blob/Updating-README/LICENSE) which grants you the permissions of:
 <ul>
   <li>
     Commercial Use
